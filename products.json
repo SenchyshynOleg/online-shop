@@ -54,5 +54,13 @@
         "image": "tesla-roadster.jpg",
         "description": "Best sports car in the World",
         "price": 249999.99
+    },
+    {
+        "id": "9",
+        "title": "Mazda 6",
+        "image": "mazda-6.jpeg",
+        "description": "Skyactive Technology",
+        "price": 20999.99
     }
+
 ]
